@@ -1,7 +1,7 @@
 # Energy_Consumption_LSTM
   - University Project 2 - Angewandte Programmierung
 
-For project purpose, LSTM Model has been trained and it used to predict the points of unseen data. 
+For project purpose, LSTM Model has been trained with PyTorch and the model used to predict the points of unseen data. 
 
 ## Pipeline
 
